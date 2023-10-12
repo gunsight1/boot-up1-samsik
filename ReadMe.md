@@ -22,4 +22,4 @@
 ## 유즈케이스
 ![usecase.svg](document%2Fusecase.svg)
 ## ERD
-
+![samsik.svg](document%2Fsamsik.svg)
