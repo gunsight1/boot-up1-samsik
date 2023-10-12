@@ -20,6 +20,6 @@
 - [x] 가게 주인은 자신의 가게의 예약을 볼 수 있고, 삭제할 수 있다.
 
 ## 유즈케이스
-
+![usecase.svg](document%2Fusecase.svg)
 ## ERD
 
