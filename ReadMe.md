@@ -24,3 +24,5 @@
 ![usecase.svg](document%2Fusecase.svg)
 ## ERD
 ![samsik.svg](document%2Fsamsik.svg)
+
+![erd.png](document%2Ferd.png)
